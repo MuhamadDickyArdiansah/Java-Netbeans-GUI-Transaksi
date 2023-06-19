@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/homeUser.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/controller/ControllerTransaksi.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/controller/ControllerAdmin.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/controller/ControllerMerchandise.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/model/Barang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/isiSaldo.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/model/Admin.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/controller/ControllerBarang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/riwayatTransaksi.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/model/Merchandise.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/db/ConnectionManager.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/controller/ControllerJersey.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/controller/ControllerUser.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/admin/manageUser.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/admin/homeAdmin.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/controller/ControllerSweater.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/admin/manageTransaksi.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/sweater.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/model/Sweater.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/model/Jersey.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/admin/manageBarang.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/jersey.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/merchandise.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/model/Transaksi.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/login.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/view/register.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/Tugas%20Besar/src/model/User.java</file>
+        </group>
+    </open-files>
+</project-private>
